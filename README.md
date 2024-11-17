@@ -2,4 +2,4 @@
 - I’m interested in astrophysics, psychology, and thai kickboxing. 
 - I’m currently learning rails.
 - I’m looking to collaborate on projects with my boss. 
-- Fun fact: This is <a href="https://en.wikipedia.org/wiki/Inferior_olivary_nucleus#:~:text=The%20inferior%20olivary%20nucleus%20(ION,regulate%20motor%20coordination%20and%20learning.">my wiki</a>.
+- Read more about me in <a href="https://en.wikipedia.org/wiki/Inferior_olivary_nucleus#:~:text=The%20inferior%20olivary%20nucleus%20(ION,regulate%20motor%20coordination%20and%20learning.">my wiki</a>.
